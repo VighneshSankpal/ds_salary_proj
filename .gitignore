@@ -1,5 +1,7 @@
 .env
 .ipynb_checkpoints
-.anaconda_projects
-./anaconda_projects/*
-.\anaconda_projects
+
+**/.ipynb_checkpoints/
+
+.anaconda_projects/
+anaconda_projects/
